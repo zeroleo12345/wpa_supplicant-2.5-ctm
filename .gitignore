@@ -2,3 +2,6 @@
 *.o
 wpa_supplicant/eapol_test
 .DS_Store
+.idea/
+CMakeLists.txt
+cmake-build-debug/
